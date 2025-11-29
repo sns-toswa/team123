@@ -1,12 +1,21 @@
-
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Andrly",
+      "surname": "Moskalenko",
+      "photo_url": "https://raw.githubus...",
+      "balance": 1500
+    },
+    {
+      "id": 2,
+      "name": "ВашеІмя",
+      "surname": "ВашеПрізвище",
+      "photo_url": "https://example.com/your-photo.jpg",
+      "balance": 0,
+      "email": "your.email@example.com",
+      "age": 20,
+      "city": "Київ"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
